@@ -2,7 +2,7 @@ Step-by-step guide to install Ubuntu 16.04. LTS 64-bit on a MacBook Pro Retina 1
 
 ## Overview
 
-I finally switched to a Macbook Pro, and immedietely found myself needing to get Ubuntu 16.04 and i3 installed. Here's a guide in the hopes that it's helpful.
+I finally switched to a Macbook Pro, and immediately found myself needing to get Ubuntu 16.04 and i3 installed. Here's a guide in the hopes that it's helpful.
 
 ## Required Downloads
 - Ubuntu 16.04 Desktop 64-bit ISO:
